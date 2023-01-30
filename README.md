@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**emanu01/emanu01** EMANUEL FELIX , Gestão tenologia da informação, Suporte ao Usuario T.i ☠
+**emanu01/emanu01** EMANUEL FELIX , Gestão tenologia da informação, Suporte ao Usuario T.i ☠💻
 - 
 - 🌱Estudante de programação 
 -
