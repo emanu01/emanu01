@@ -1,16 +1,12 @@
 ### Hi there 👋
 
 
-**emanu01/emanu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**emanu01/emanu01** EMANUEL FELIX , Gestão da tenologia da informação, Suporte ao Usuario T.i ☠
 - 
-- 🌱olá sou Emanuel estudante de programação 
-- 👯 
-- 📫 Sou brasileiro
-- 😄
-
+- 🌱Estudante de programação 
+-
+- 📫 Sou brasileiro from Nordeste
+- 
 
 
 
