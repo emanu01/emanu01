@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-**emanu01/emanu01** EMANUEL FELIX , Gestão tenologia da informação, Suporte ao Usuario T.i ☠💻
+**emanu01/emanu01** EMANUEL FELIX , ADS , HELP DESK ☠💻
 - 
 - 🌱Estudante de programação 
 - ✔ From Nordeste Brasil
-- 📫 Sou brasileiro from Nordeste
-- 
+
+  
 
 
 
