@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-**emanu01/emanu01** EMANUEL FELIX , ADS , HELP DESK ☠💻
-- 
+**emanu01/emanu01** EMANUEL FELIX , ADS ☠💻
+
 - 🌱Estudante de programação 
-- ✔ From Nordeste Brasil
+- ✔ Análise e Desenvolvimento de sistemas 
 
   
 
